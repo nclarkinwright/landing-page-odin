@@ -12,7 +12,12 @@ ul {
 
 header {
   background-color: #1F2937;
-  padding: 6px 150px 175px 150px;
+  padding-bottom: 160px;
+}
+
+.header-content {
+  width: 80%;
+  margin: 0 auto;
 }
 
 nav {
