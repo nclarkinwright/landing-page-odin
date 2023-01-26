@@ -27,7 +27,7 @@ nav {
 }
 
 #header-logo {
-  color: #f9faf8;
+  color: #F9FAF8;
   font-size: 24px;
 }
 
@@ -144,6 +144,45 @@ nav a {
   text-align: right;
 }
 
+.call-to-action{
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
+
+.call-to-action-content {
+  background-color: #3882F6;
+  color: #F9FAF8;
+  width: 60%;
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.call-to-action button {
+  background-color: #3882F6;
+  color: #F9FAF8;
+  border: solid #F9FAF8 2px;
+  padding: 4px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.call-to-action-call {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.call-to-action-info {
+  margin-top: 0;
+  font-weight: 300;
+  font-size: 14px;
+}
+
 footer {
   background-color: #1F2937;
   display: flex;
@@ -154,5 +193,4 @@ footer {
 
 footer p {
   color: #E5E7EB;
-  /* font-size: 18px; */
 }
