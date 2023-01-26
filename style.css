@@ -124,6 +124,12 @@ nav a {
 
 .quote {
   background-color: #E5E7EB;
+  padding: 64px 0;
+}
+
+.quote-content {
+  width: 60%;
+  margin: 0 auto;
 }
 
 .quote-text {
