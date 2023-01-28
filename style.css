@@ -128,7 +128,7 @@ nav a {
 }
 
 .quote-content {
-  width: 60%;
+  width: 800px;
   margin: 0 auto;
 }
 
@@ -152,7 +152,7 @@ nav a {
 .call-to-action-content {
   background-color: #3882F6;
   color: #F9FAF8;
-  width: 60%;
+  width: 950px;
   margin: 0 auto;
   padding-top: 20px;
   padding-bottom: 20px;
