@@ -16,7 +16,7 @@ header {
 }
 
 .header-content {
-  width: 80%;
+  width: 1000px;
   margin: 0 auto;
 }
 
@@ -104,17 +104,17 @@ nav a {
 .information ul {
   display: flex;
   justify-content: center;
-  gap: 32px;
+  gap: 48px;
 }
 
 .information li {
-  flex-basis: 200px;
+  flex-basis: 150px;
 }
 
 .information img {
   border: 4px solid #3882F6;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   border-radius: 12px;
 }
 
